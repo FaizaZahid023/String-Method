@@ -24,6 +24,10 @@ document.write("String: " + str + "<br>");
 document.write("Last index of ' l ': " + lIndex );
 // Qustion 5
 
+var str = "Pakistani";
+var Index = str[3];
+document.write("String: " + str + "<br>");
+document.write("Character at index 3: " + Index);
 
 // Qustion 6.
 
